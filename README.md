@@ -1,4 +1,4 @@
-## Hi there 👋
+## vibecoder profesional no tengo pensamiento critico
 
 <!--
 **jwalters63/jwalters63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

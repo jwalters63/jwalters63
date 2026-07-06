@@ -65,7 +65,7 @@ A Unix shell written from scratch in C, following Unix philosophy — do one thi
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-A time-reactive wallpaper engine for the browser. Renders a dynamic atmosphere that shifts with the time of day — built in vanilla JS with a modular architecture and GPU-optimized rendering.
+A time-reactive wallpaper engine thar runs like a web page. Renders a dynamic view that shifts with the time of day — built in vanilla JS with a modular architecture and GPU-optimized rendering.
 
 </td>
 </tr>
@@ -179,7 +179,7 @@ Un shell Unix escrito desde cero en C, siguiendo la filosofía Unix — una cosa
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-Wallpaper hecho como página web reactivo al tiempo del día. Renderiza una atmósfera dinámica que cambia con la hora — construido en JS vanilla con arquitectura modular y renderizado optimizado para GPU.
+Wallpaper hecho como página web reactivo al tiempo del día. Renderiza una vista dinámica que cambia con la hora — construido en JS vanilla con arquitectura modular y renderizado optimizado para GPU.
 
 </td>
 </tr>

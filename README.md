@@ -102,14 +102,15 @@ Always building something. Check back.
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jwalters63&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=888888&icon_color=888888&text_color=cccccc&hide=stars" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jwalters63&show_icons=true&theme=default&hide_border=true&title_color=555555&icon_color=555555&text_color=333333&hide=stars" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jwalters63&show_icons=true&theme=dark&hide_border=true" height="160"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jwalters63&theme=dark&hide_border=true&background=0d1117&ring=888888&fire=888888&currStreakLabel=cccccc" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jwalters63&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jwalters63&theme=dark&hide_border=true" height="160" alt="GitHub Streak" />
 </picture>
+<br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jwalters63&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=888888&text_color=cccccc&langs_count=6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jwalters63&layout=compact&theme=default&hide_border=true&title_color=555555&text_color=333333&langs_count=6" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwalters63&layout=compact&theme=dark&hide_border=true" height="160"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jwalters63&theme=github-dark&hide_border=true&bg_color=0d1117&color=888888&line=555555" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jwalters63&theme=github&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jwalters63&theme=github-dark&hide_border=true" alt="Activity Graph" />
 </picture>
 
 <br>
@@ -215,12 +216,13 @@ Siempre construyendo algo. Vuelve pronto.
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jwalters63&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=888888&icon_color=888888&text_color=cccccc&hide=stars&locale=es" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jwalters63&show_icons=true&theme=default&hide_border=true&title_color=555555&icon_color=555555&text_color=333333&hide=stars&locale=es" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jwalters63&show_icons=true&theme=dark&hide_border=true&locale=es" height="160"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jwalters63&theme=dark&hide_border=true&background=0d1117&ring=888888&fire=888888&currStreakLabel=cccccc&locale=es" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jwalters63&theme=default&hide_border=true&locale=es" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jwalters63&theme=dark&hide_border=true&locale=es" height="160" alt="GitHub Streak" />
 </picture>
+<br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jwalters63&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=888888&text_color=cccccc&langs_count=6&locale=es" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jwalters63&layout=compact&theme=default&hide_border=true&title_color=555555&text_color=333333&langs_count=6&locale=es" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwalters63&layout=compact&theme=dark&hide_border=true&locale=es" height="160"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jwalters63&theme=github-dark&hide_border=true&bg_color=0d1117&color=888888&line=555555" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jwalters63&theme=github&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jwalters63&theme=github-dark&hide_border=true" alt="Activity Graph" />
 </picture>
